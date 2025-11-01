@@ -155,41 +155,9 @@ plt.show()
 <img width="545" height="450" alt="image" src="https://github.com/user-attachments/assets/8e1d2230-998a-4a38-b5ef-8edea94f34b4" />
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-
-
-
-
-
-
-
- 
-
-
-
-
-       
-# RESULT:
-        Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
+   
+# RESULT: 
+Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
        
 
        
